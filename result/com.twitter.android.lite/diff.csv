@@ -1,0 +1,5 @@
+"Permission","Code","Manifest"
+"android.permission.VIBRATE","1","0"
+"android.permission.ACCESS_NETWORK_STATE","1","0"
+"android.permission.WAKE_LOCK","1","0"
+"android.permission.INTERNET","0","1"

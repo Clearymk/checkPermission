@@ -1,0 +1,6 @@
+"Permission","Code","Manifest"
+"android.permission.BROADCAST_STICKY","1","0"
+"android.permission.ACCESS_COARSE_LOCATION","1","0"
+"android.permission.ACCESS_NETWORK_STATE","1","0"
+"android.permission.WAKE_LOCK","1","0"
+"android.permission.READ_PROFILE","1","0"

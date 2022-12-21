@@ -1,0 +1,5 @@
+"Permission","Code","Manifest"
+"android.permission.ACCESS_COARSE_LOCATION","1","0"
+"android.permission.WAKE_LOCK","1","0"
+"android.permission.READ_PROFILE","1","0"
+"android.permission.RECORD_AUDIO","0","1"

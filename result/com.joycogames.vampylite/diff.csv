@@ -1,0 +1,5 @@
+"Permission","Code","Manifest"
+"android.permission.BLUETOOTH_ADMIN","1","0"
+"android.permission.WAKE_LOCK","1","0"
+"android.permission.BLUETOOTH","1","0"
+"android.permission.WRITE_SETTINGS","1","0"

@@ -1,0 +1,7 @@
+"Permission","Code","Manifest"
+"android.permission.WAKE_LOCK","1","1"
+"android.permission.WRITE_SETTINGS","1","0"
+"android.permission.INTERNET","0","1"
+"android.permission.VIBRATE","0","1"
+"android.permission.ACCESS_NETWORK_STATE","0","1"
+"android.permission.WRITE_EXTERNAL_STORAGE","0","1"
